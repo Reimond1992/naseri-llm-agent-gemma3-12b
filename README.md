@@ -7,7 +7,7 @@ The agent uses **Ollama Gemma3:12B** to answer user messages.
 
 ---
 
-## 🔹 Prerequisites
+🔹 Prerequisites
 
 - **Python 3.12** installed  
   [Python Downloads](https://www.python.org/downloads/)
@@ -19,7 +19,7 @@ The agent uses **Ollama Gemma3:12B** to answer user messages.
 
 ---
 
-## 🔹 1. Clone the Repository
+🔹 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Reimond1992/naseri-llm-agent-gemma3-12b
