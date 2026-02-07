@@ -1,0 +1,12 @@
+services:
+  sarmad-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+      - ./db:/app/db
+    environment:
+      - LLM_URL=${LLM_URL}
+      - DATABASE_URL=${DATABASE_URL}
+      - TIMEOUT=${TIMEOUT}
