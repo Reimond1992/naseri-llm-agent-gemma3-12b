@@ -22,8 +22,8 @@ The agent uses **Ollama Gemma3:12B** to answer user messages.
 ## 🔹 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd <repo-folder>
+git clone https://github.com/Reimond1992/naseri-llm-agent-gemma3-12b
+cd repo-folder
 🔹 2. Set Up Python Environment
 Create a virtual environment:
 
